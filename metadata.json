@@ -1,0 +1,6 @@
+{
+  "name": "The Only Ads",
+  "description": "Performance-based lead generation advertising where you only pay when campaigns hit agreed milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
